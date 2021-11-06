@@ -1,12 +1,15 @@
 /*Tamanho padrão para tablets*/
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 810px) {
 	
-
+.box-principal {
+    left: 180px;
+    top: 110px;
+}
 
 }
 /*Tamanho padrão para smartphones*/
 @media only screen and (max-width: 480px) {
 
 
-    
+
 }
