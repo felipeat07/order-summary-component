@@ -10,6 +10,54 @@
 /*Tamanho padrão para smartphones*/
 @media only screen and (max-width: 480px) {
 
+body{
+    background-image: url(images/pattern-background-mobile.svg);
+}
+
+.box-principal, #img-head{
+    left: 30px;
+    width: 305px;
+}
+
+.anuncio{
+    top: 335px;
+    left:14px;
+    height: 60px;
+}
+
+.box-principal h3{
+    font-size: 17px;
+    left: 80px;
+    top: -10px;
+}
+
+.box-principal h4{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 80px;
+}
+
+#img-simbol{
+    top: 345px;
+    left: 25px;
+    height: 40px;
+}
+
+.anuncio a{
+    left: 210px;
+    top: 20px;
+}
+
+#btn-proceed{
+    top: 480px;
+    left: 25px;
+}
+
+#btn-cancel{
+    top: 540px;
+    left: 25px;
+}
+
 
 
 }
